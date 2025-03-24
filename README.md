@@ -13,8 +13,15 @@ Atualmente, estou matriculado em Análise e desenvolvimento de sistemas na insti
 - **Frameworks e Bibliotecas:** Breve experiência com Node.js, Django.
 - **Banco de Dados:** [MySQL]
 - **Ferramentas e Tecnologias:** Git
-- **Outras Habilidades:** Longa experiência em trabalho em equipe, direcionamento de projeto, análise de requisitos, boa administração de tempo, pensamento rápido e
- criativo para solução de problemas.
+
+## Soft Skills
+
+- **Liderança**
+- **Boa comunicação**
+- **Pensamento ágil para a solução de problemas**
+- **Bom raciocínio lógico para análises e tomadas de decisão**
+- **Capacidade de trabalho em equipe como líder ou liderado**
+  
 
 ## Projetos Destacados
 
