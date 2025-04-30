@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um gestor de A&B desde 2012, atuei em players importantes à epoca como Espaço Árabe, Bongrillê e, atualmente, atuo em uma das maiores deres de cafeterias premium do Brasil,
+Sou um gestor de A&B desde 2012, atuei em players importantes à epoca como Espaço Árabe, Bongrillê e, atualmente, atuo em uma das maiores players de cafeterias premium do Brasil,
 a SternaCafé, liderando o time operacional da unidade, capacitando profissionais e, agora com estudo em tecnologia, desenvolvendo soluções para o dia-a-dia administrativo, operacional e
 estratégico.
 Atualmente, estou matriculado em Análise e desenvolvimento de sistemas na instituição Cruzeiro do Sul e, em paralelo, desenvolvendo habilidades em cursos correlatos(Alura, BootCamps, etc.).
@@ -10,9 +10,9 @@ Atualmente, estou matriculado em Análise e desenvolvimento de sistemas na insti
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** HTML5,CSS, JavaScript, Python, Java (Nível básico)
-- **Frameworks e Bibliotecas:** Breve experiência com Node.js, Django.
+- **Frameworks e Bibliotecas:** Breve experiência com Node.js, Django, Flask. Bibliotecas como NLTK, Pandas.
 - **Banco de Dados:** [MySQL]
-- **Ferramentas e Tecnologias:** Git
+- **Ferramentas e Tecnologias:** Git e GitHub
 
 ## Soft Skills
 
