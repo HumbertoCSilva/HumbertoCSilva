@@ -10,7 +10,7 @@ Atualmente, estou matriculado em Análise e desenvolvimento de sistemas na insti
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** HTML5,CSS, JavaScript, Python, Java (Nível básico)
-- **Frameworks e Bibliotecas:** Breve experiência com Node.js, Django, Flask. Bibliotecas como NLTK, Pandas.
+- **Frameworks e Bibliotecas:** Breve experiência com Node.js, Django, Flask, Spring boot. Bibliotecas como NLTK, Pandas, Pyautogui.
 - **Banco de Dados:** [MySQL]
 - **Ferramentas e Tecnologias:** Git e GitHub
 
@@ -21,11 +21,13 @@ Atualmente, estou matriculado em Análise e desenvolvimento de sistemas na insti
 - **Pensamento ágil para a solução de problemas**
 - **Bom raciocínio lógico para análises e tomadas de decisão**
 - **Capacidade de trabalho em equipe como líder ou liderado**
+- **Pensamento preventivo e crítico**
   
 
 ## Projetos Destacados
 
 - **[Calculo 10%](https://github.com/HumbertoCSilva/calculo10-):** Um programa que facilita os lançamentos e organização dos dados de vendas com 10% de atendimento de mesa para um restaurante..
+- **[Exemplos de usos em Java](https://github.com/HumbertoCSilva/ExerciciosGettersSetters):** Exercícios que demonstram habilidades em POO..
 
 ## Educação
 
